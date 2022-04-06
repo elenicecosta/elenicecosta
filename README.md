@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi I"m Elenice Costa
+Hi I"m Elenice dos Santos Costa
 I!m currently learnig about science computer. 
 <!--
 **elenicecosta/elenicecosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
